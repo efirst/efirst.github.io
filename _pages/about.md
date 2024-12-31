@@ -12,3 +12,7 @@ I am a postdoctoral researcher at UC San Diego working with Sorin Lerner (but I 
 Research Interests
 ======
 I am interested in leveraging AI for theorem proving as a playground for exploring how AI can reason better, and in turn, how humans can use AI to reason better themselves in a variety of domains. I am an interdisciplinary researcher, working at the intersection of machine learning, software engineering, and programming languages. So far, I have worked on creating tools to automatically generate proofs in proof assistants, such as Coq, Isabelle/HOL, and Lean.  
+
+Contact
+======
+emfirst@ucsd.edu
