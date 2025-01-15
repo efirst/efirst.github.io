@@ -30,7 +30,7 @@ TOPLAS 2023\
 (Presented as a journal-first paper at PLDI 2023)
 
 **Emily First**, Yuriy Brun\
-[Diversity-Driven Automated Formal Verification](https://dl.acm.org/doi/10.1145/3510003.3510138)\ 
+[Diversity-Driven Automated Formal Verification](https://dl.acm.org/doi/10.1145/3510003.3510138)\
 ICSE 2022\
 **ACM SIGSOFT Distinguished Paper Award**
 
