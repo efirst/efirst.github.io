@@ -44,7 +44,7 @@ Preprints
 
 Yousef Alhessi, Sólrún Halla Einarsdóttir, George Granberry, **Emily First**, Moa Johansson, Sorin Lerner, Nicholas Smallbone\
 [Lemmanaid: Neuro-Symbolic Lemma Conjecturing](https://arxiv.org/abs/2504.04942)\
-arXiv 2024\
+arXiv 2025\
 Under Submission
 
 Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, **Emily First**\
