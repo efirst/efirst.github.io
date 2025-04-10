@@ -12,7 +12,8 @@ Full-length Publications
 ======
 Robert Thompson, Nuno Saavedra, Pedro Carrott, Kevin Fisher, Alex Sanchez-Stern, Yuriy Brun, João F. Ferreira, Sorin Lerner, **Emily First**\
 [Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification](https://people.cs.umass.edu/~brun/pubs.php?key=Thompson25icse&bib=pubs%252Fbrun.bib)\
-ICSE 2025
+ICSE 2025\
+**ACM SIGSOFT Distinguished Paper Award**
 
 Chenyang An, Zhibo Chen, Qihao Ye, **Emily First**, Letian Peng, Jiayun Zhang, Zihan Wang, Sorin Lerner, Jingbo Shang\
 [Learn from Failure: Fine-Tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving](https://aclanthology.org/2024.acl-long.45)\
@@ -40,6 +41,12 @@ OOPSLA 2020
 
 Preprints
 ======
+
+Yousef Alhessi, Sólrún Halla Einarsdóttir, George Granberry, **Emily First**, Moa Johansson, Sorin Lerner, Nicholas Smallbone\
+[Lemmanaid: Neuro-Symbolic Lemma Conjecturing](https://arxiv.org/abs/2504.04942)\
+arXiv 2024\
+Under Submission
+
 Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, **Emily First**\
 [Cobblestone: Iterative Automation for Formal Verification](https://arxiv.org/abs/2410.19940)\
 arXiv 2024\
