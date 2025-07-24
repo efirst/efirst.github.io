@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Emily First"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc in Computer Science working on AI for theorem proving"
+  bio              : "Incoming Assistant Professor in Computer Science working on AI for theorem proving"
   location         : "NYC"
-  employer         : "Postdoc at UCSD"
+  employer         : "Incoming Assistant Professor at Rutgers"
   uri              : # URL
   email            : "emfirst@ucsd.edu" 
 
