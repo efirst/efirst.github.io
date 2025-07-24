@@ -45,7 +45,7 @@ Preprints
 Yousef Alhessi, Sólrún Halla Einarsdóttir, George Granberry, **Emily First**, Moa Johansson, Sorin Lerner, Nicholas Smallbone\
 [Lemmanaid: Neuro-Symbolic Lemma Conjecturing](https://arxiv.org/abs/2504.04942)\
 arXiv 2025\
-Under Submission
+Under Submission (also appeared at the ICML 2025 AI4Math Workshop) 
 
 Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, **Emily First**\
 [Cobblestone: Iterative Automation for Formal Verification](https://arxiv.org/abs/2410.19940)\
