@@ -9,7 +9,7 @@ redirect_from:
 
 I am an incoming (Fall 2025) Assistant Professor in Computer Science at Rutgers University New Brunswick. 
 
-Previously, I was a postdoctoral researcher at UC San Diego advised by Sorin Lerner. I completed my PhD in Computer Science at UMass Amherst, where I was advised by Yuriy Brun in the Laboratory for Software Engineering Research (LASER). I received a BS in Math and Computer Science from Harvey Mudd College.
+Previously, I was a postdoctoral researcher at UC San Diego advised by Sorin Lerner. I completed my PhD in Computer Science at UMass Amherst, where I was advised by Yuriy Brun. I received a BS in Math and Computer Science from Harvey Mudd College.
 
 Research Interests
 ======
@@ -19,8 +19,10 @@ I am an interdisciplinary researcher, working at the intersection of machine lea
 
 Overall, my research interests are quite broad: AI for SE/PL and quantitative reasoning.  
 
-If you're interested in working with me (prospective PhD student, current PhD/masters/undergrad student at Rutgers, or just wanting to collaborate) please reach out via email. 
+If you're interested in working with me (prospective PhD student, current PhD/masters/undergrad student at Rutgers, or just wanting to collaborate) please reach out via email.
 
 Contact
 ======
-emfirst@ucsd.edu (new email coming soon) 
+emily.first@rutgers.edu 
+
+Please do not send emails to my ucsd or umass email addresses as they are no longer active.
