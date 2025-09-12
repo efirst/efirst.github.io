@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming (Fall 2025) Assistant Professor in Computer Science at Rutgers University New Brunswick. 
+I am an assistant professor in Computer Science at Rutgers University New Brunswick. 
 
 Previously, I was a postdoctoral researcher at UC San Diego advised by Sorin Lerner. I completed my PhD in Computer Science at UMass Amherst, where I was advised by Yuriy Brun. I received a BS in Math and Computer Science from Harvey Mudd College.
 
@@ -21,7 +21,14 @@ I am interested in leveraging AI for theorem proving as a playground for explori
 
 I consider myself an interdisciplinary researcher, working at the intersection of machine learning, software engineering, and programming languages. So far, I have worked on creating tools to automatically generate proofs in proof assistants, such as Coq, Isabelle/HOL, and Lean.  
 
-If you're interested in working with me (prospective PhD student, current PhD/masters/undergrad student at Rutgers, or just wanting to collaborate) please reach out via email.
+Working With Me
+======
+
+I'm always looking for bright, self-motivated students to work with. 
+
+If you're interested in working with me (current PhD/masters/undergrad student at Rutgers, or just wanting to collaborate) you can reach out via email, though I may be slow to respond as I'm transitioning into this new role.
+
+For prospective PhD students, please mention my name in your application to the Rutgers CS PhD program. 
 
 Contact
 ======
