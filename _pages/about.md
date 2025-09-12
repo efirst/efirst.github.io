@@ -24,7 +24,7 @@ I consider myself an interdisciplinary researcher, working at the intersection o
 Working With Me
 ======
 
-I'm always looking for bright, self-motivated students to work with. 
+I'm always looking for self-motivated students to work with. 
 
 If you're interested in working with me (current PhD/masters/undergrad student at Rutgers, or just wanting to collaborate) you can reach out via email, though I may be slow to respond as I'm transitioning into this new role.
 
