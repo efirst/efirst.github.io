@@ -25,6 +25,8 @@ If you're interested in working with me (prospective PhD student, current PhD/ma
 
 Contact
 ======
-emily.first@rutgers.edu 
+emily dot first at rutgers dot edu 
 
 Please do not send emails to my ucsd or umass email addresses as they are no longer active.
+
+Any email not from my official rutgers email address is NOT me. I have not sent a mass email offering assistantships or money of any sort. Scammers suck, stay vigilant.
