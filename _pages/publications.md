@@ -10,6 +10,10 @@ author_profile: true
 
 Full-length Publications 
 ======
+Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, **Emily First**\
+[Cobblestone: Iterative Automation for Formal Verification](https://arxiv.org/abs/2410.19940)\
+ICSE 2026
+
 Robert Thompson, Nuno Saavedra, Pedro Carrott, Kevin Fisher, Alex Sanchez-Stern, Yuriy Brun, João F. Ferreira, Sorin Lerner, **Emily First**\
 [Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification](https://people.cs.umass.edu/~brun/pubs.php?key=Thompson25icse&bib=pubs%252Fbrun.bib)\
 ICSE 2025\
@@ -41,16 +45,10 @@ OOPSLA 2020
 
 Preprints
 ======
-
 Yousef Alhessi, Sólrún Halla Einarsdóttir, George Granberry, **Emily First**, Moa Johansson, Sorin Lerner, Nicholas Smallbone\
 [Lemmanaid: Neuro-Symbolic Lemma Conjecturing](https://arxiv.org/abs/2504.04942)\
 arXiv 2025\
 Under Submission (also appeared at the ICML 2025 AI4Math Workshop) 
-
-Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, **Emily First**\
-[Cobblestone: Iterative Automation for Formal Verification](https://arxiv.org/abs/2410.19940)\
-arXiv 2024\
-Under Submission
 
 Demo-Track Publications
 ======
