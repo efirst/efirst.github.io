@@ -15,20 +15,20 @@ When I'm not working on research, I'm mostly watching reality TV or rooting for 
 
 Research Interests
 ======
-Overall, my research interests are quite broad: AI for SE/PL and quantitative reasoning.  
+Overall, my research interests are in AI for SE/PL and formal/quantitative reasoning.  
 
-I am interested in leveraging AI for theorem proving as a playground for exploring how AI can reason better, and in turn, how humans can use AI to reason better themselves in a variety of domains. 
+I am interested in leveraging AI for theorem proving as a playground for exploring how AI can reason better, and in turn, how humans can use AI to reason better themselves in a variety of domains, such as formal verifiation and mathematics.
 
-I consider myself an interdisciplinary researcher, working at the intersection of machine learning, software engineering, and programming languages. So far, I have worked on creating tools to automatically generate proofs in proof assistants, such as Coq, Isabelle/HOL, and Lean.  
+I consider myself an interdisciplinary researcher, working at the intersection of machine learning, software engineering, and programming languages. I work on creating tools to automatically generate proofs and lemmas in proof assistant languages, such as Rocq (formerly Coq), Isabelle/HOL, and Lean. I am also interested in making effective interfaces for humans to interact with AI-based tools for these languages to enhance their productivity.  
 
 Working With Me
 ======
 
-I'm always looking for self-motivated students to work with. 
+I'm always looking for self-motivated students to work with. Though not all of these are required, I am especially looking for students who have (1) software engineering experience, (2) a solid background in machine learning, and (3) experience with proof assistants, verification-aware languages, or theorem proving. 
 
-If you're interested in working with me (current PhD/masters/undergrad student at Rutgers, or just wanting to collaborate) you can reach out via email, though I may be slow to respond as I'm transitioning into this new role.
+**Current Rutgers MS & Undergrads:** If you're interested in volunteering to work on research with me, you can reach out via email. Include a short CV, transcipt, and a paragraph about your interests and skills. I may be slow to respond as I'm transitioning into this new role.
 
-For prospective PhD students, please mention my name in your application to the Rutgers CS PhD program. 
+**PhD Applicants: I'll be recruiting PhD students to start in Fall 2026.** Apply through the Rutgers CS PhD program. In your statement, mention my name and describe your fit with my research areas.
 
 Contact
 ======
