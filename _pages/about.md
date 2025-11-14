@@ -26,7 +26,7 @@ Working With Me
 
 I'm always looking for self-motivated students to work with. Though not all of these are required, I am especially looking for students who have (1) software engineering experience, (2) a solid background in machine learning, and (3) experience with proof assistants, verification-aware languages, or theorem proving. 
 
-**Current Rutgers MS & Undergrads:** If you're interested in volunteering to work on research with me, you can reach out via email. Include a short CV, transcipt, and a paragraph about your interests and skills. I may be slow to respond as I'm transitioning into this new role.
+**Current Rutgers MS & Undergrads:** If you're interested in volunteering to work on research with me, you can reach out via email. Include a short CV, transcript, and a paragraph about your interests and skills. I may be slow to respond as I'm transitioning into this new role.
 
 **PhD Applicants: I'll be recruiting PhD students to start in Fall 2026.** Apply through the Rutgers CS PhD program. In your statement, mention my name and describe your fit with my research areas.
 

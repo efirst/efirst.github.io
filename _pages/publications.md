@@ -11,7 +11,7 @@ author_profile: true
 Full-length Publications 
 ======
 Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, **Emily First**\
-[Cobblestone: Iterative Automation for Formal Verification](https://arxiv.org/abs/2410.19940)\
+[Cobblestone: A Divide-and-Conquer Approach for Automating Formal Verification](https://arxiv.org/abs/2410.19940)\
 ICSE 2026
 
 Robert Thompson, Nuno Saavedra, Pedro Carrott, Kevin Fisher, Alex Sanchez-Stern, Yuriy Brun, João F. Ferreira, Sorin Lerner, **Emily First**\
