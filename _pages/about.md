@@ -21,11 +21,6 @@ I am interested in leveraging AI for theorem proving as a playground for explori
 
 I consider myself an interdisciplinary researcher, working at the intersection of machine learning, software engineering, and programming languages. I work on creating tools to automatically generate proofs and lemmas in proof assistant languages, such as Rocq (formerly Coq), Isabelle/HOL, and Lean. I am also interested in making effective interfaces for humans to interact with AI-based tools for these languages to enhance their productivity.  
 
-AI and Math Seminar
-======
-
-I'm a co-organizer of the weekly Rutgers AI and Mathematics Seminar, where we have invited talks on the use of Lean and AI methods in mathematics research. Check out our [seminar page](https://ai-math-seminar.github.io/seminar/)!
-
 Working With Me
 ======
 
@@ -34,6 +29,12 @@ I'm always looking for self-motivated students to work with. Though not all of t
 **Current Rutgers MS & Undergrads:** If you're interested in volunteering to work on research with me, you can reach out via email. Include a short CV, transcript, and a paragraph about your interests and skills. I may be slow to respond as I'm transitioning into this new role.
 
 **PhD Applicants: I'll be recruiting PhD students to start in Fall 2026.** Apply through the Rutgers CS PhD program. In your statement, mention my name and describe your fit with my research areas.
+
+
+AI and Math Seminar
+======
+
+I'm a co-organizer of the weekly Rutgers AI and Mathematics Seminar, where we have invited talks on the use of Lean and AI methods in mathematics research. Check out our [seminar page](https://ai-math-seminar.github.io/seminar/)!
 
 Contact
 ======
