@@ -17,9 +17,14 @@ Research Interests
 ======
 Overall, my research interests are in AI for SE/PL and formal/quantitative reasoning.  
 
-I am interested in leveraging AI for theorem proving as a playground for exploring how AI can reason better, and in turn, how humans can use AI to reason better themselves in a variety of domains, such as formal verifiation and mathematics.
+I am interested in leveraging AI for theorem proving as a playground for exploring how AI can reason better, and in turn, how humans can use AI to reason better themselves in a variety of domains, such as formal verification and research-level mathematics.
 
 I consider myself an interdisciplinary researcher, working at the intersection of machine learning, software engineering, and programming languages. I work on creating tools to automatically generate proofs and lemmas in proof assistant languages, such as Rocq (formerly Coq), Isabelle/HOL, and Lean. I am also interested in making effective interfaces for humans to interact with AI-based tools for these languages to enhance their productivity.  
+
+AI and Math Seminar
+======
+
+I'm a co-organizer of the weekly Rutgers AI and Mathematics Seminar, where we have invited talks on the use of Lean and AI methods in mathematics research. Check out our [seminar page](https://ai-math-seminar.github.io/seminar/)!
 
 Working With Me
 ======
