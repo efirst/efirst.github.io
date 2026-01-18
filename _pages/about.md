@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in Computer Science at Rutgers University New Brunswick. 
+I am an assistant professor in Computer Science at Rutgers University, New Brunswick. 
 
 Previously, I was a postdoctoral researcher at UC San Diego advised by Sorin Lerner. I completed my PhD in Computer Science at UMass Amherst, where I was advised by Yuriy Brun. I received a BS in Math and Computer Science from Harvey Mudd College.
 
@@ -23,18 +23,17 @@ I consider myself an interdisciplinary researcher, working at the intersection o
 
 Working With Me
 ======
-
 I'm always looking for self-motivated students to work with. Though not all of these are required, I am especially looking for students who have (1) software engineering experience, (2) a solid background in machine learning, and (3) experience with proof assistants, verification-aware languages, or theorem proving. 
 
-**Current Rutgers MS & Undergrads:** If you're interested in volunteering to work on research with me, you can reach out via email. Include a short CV, transcript, and a paragraph about your interests and skills. I may be slow to respond as I'm transitioning into this new role.
-
-**PhD Applicants: I'll be recruiting PhD students to start in Fall 2026.** Apply through the Rutgers CS PhD program. In your statement, mention my name and describe your fit with my research areas.
-
+**PhD Applicants: I'll be recruiting PhD students to start in Fall 2026.** Apply through the Rutgers CS PhD program. In your statement, mention my name and describe your fit with my research areas. I will reach out to you (likely around the end of January or beginning of February) if your application seems like a good fit! 
 
 AI and Math Seminar
 ======
-
 I'm a co-organizer of the weekly Rutgers AI and Mathematics Seminar, where we have invited talks on the use of Lean and AI methods in mathematics research. Check out our [seminar page](https://ai-math-seminar.github.io/seminar/)!
+
+Teaching
+======
+I am teaching CS 431 (undergraduate software engineering) in Spring 2026. There are no available grader/PTL/TA positions for the course.
 
 Contact
 ======
