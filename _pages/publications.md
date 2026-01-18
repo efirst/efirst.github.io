@@ -10,7 +10,7 @@ author_profile: true
 
 Full-length Publications 
 ======
-Zhanna Kaufman,**Emily First**, Alex Sanchez-Stern, Kyle Thompson, Sorin Lerner, Yuriy Brun\
+Zhanna Kaufman, **Emily First**, Alex Sanchez-Stern, Kyle Thompson, Sorin Lerner, Yuriy Brun\
 ProofCoop: Collaborative Automated Formal Verification\
 ICSE 2026
 
