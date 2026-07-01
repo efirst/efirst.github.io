@@ -23,9 +23,8 @@ I consider myself an interdisciplinary researcher, working at the intersection o
 
 Working With Me
 ======
-I'm always looking for self-motivated students to work with. Though not all of these are required, I am especially looking for students who have (1) software engineering experience, (2) a solid background in machine learning, and (3) experience with proof assistants, verification-aware languages, or theorem proving. 
 
-**PhD Applicants: I'll be recruiting PhD students to start in Fall 2026.** Apply through the Rutgers CS PhD program. In your statement, mention my name and describe your fit with my research areas. I will reach out to you (likely around the end of January or beginning of February) if your application seems like a good fit! 
+**PhD Applicants: I'll be recruiting PhD students to start in Fall 2027.** Apply through the Rutgers CS PhD program. In your application, mention my name and describe your fit with my research areas. I will reach out to you if your application seems like a good fit. 
 
 AI and Math Seminar
 ======
@@ -33,7 +32,7 @@ I'm a co-organizer of the weekly Rutgers AI and Mathematics Seminar, where we ha
 
 Teaching
 ======
-I am teaching CS 431 (undergraduate software engineering) in Spring 2026. There are no available grader/PTL/TA positions for the course.
+I am teaching CS 515 (graduate programming languages) in Fall 2026. There are no available grader positions for the course.
 
 Contact
 ======
