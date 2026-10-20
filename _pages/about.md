@@ -13,6 +13,15 @@ Previously, I was a postdoctoral researcher at UC San Diego advised by Sorin Ler
 
 When I'm not working on research, I'm mostly watching reality TV or rooting for the Philadelphia Eagles (go birds). I also enjoy playing tennis, skiing, and cooking with my amazing husband [Subendhu Rongali](https://subendhurongali.netlify.app/). 
 
+Call for Papers: TrustedSoftwAIr 2027
+======
+**Submit to [TrustedSoftwAIr 2027](https://trustedsoftwair.github.io/), the International Workshop on Building Trusted Software with AI, co-located with ICSE 2027 in Dublin, Ireland (April 26, 2027). Submissions are due November 13, 2026 (AoE).**
+
+TrustedSoftwAIr brings together researchers across software engineering, programming languages, AI, mathematics, HCI, and verification who are using AI to make building trusted software easier, with the goal of sparking cross-pollination and collaboration between these communities.
+
+We welcome research papers (up to 8 pages), vision and early-idea extended abstracts (up to 2 pages), and presentations of already published work (non-archival). Topics include AI-driven proof engineering, specification formalization, trustworthy code synthesis, AI-augmented software analysis and testing, human-AI collaboration, AI for mathematics, and more. See the [call for papers](https://trustedsoftwair.github.io/cfp) for details and submit via [HotCRP](https://icse2027-trustedsoftwair.hotcrp.com/).
+
+
 Research Interests
 ======
 Overall, my research interests are in AI for SE/PL and formal/quantitative reasoning.  
@@ -24,7 +33,7 @@ I consider myself an interdisciplinary researcher, working at the intersection o
 Working With Me
 ======
 
-**PhD Applicants: I'll be recruiting PhD students to start in Fall 2027.** Apply through the Rutgers CS PhD program. In your application, mention my name and describe your fit with my research areas. I will reach out to you if your application seems like a good fit. 
+**PhD Applicants: I'll be recruiting PhD students to start in Fall 2027.** Apply through the Rutgers CS PhD program. In your application, mention my name and describe your fit with my research areas. I will reach out to you if your application seems like a good fit.
 
 AI and Math Seminar
 ======
