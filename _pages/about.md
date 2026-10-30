@@ -49,4 +49,4 @@ emily dot first at rutgers dot edu
 
 Please do not send emails to my ucsd or umass email addresses as they are no longer active.
 
-Any email not from my official rutgers email address is NOT me. I have not sent a mass email offering assistantships or money of any sort. Scammers suck, stay vigilant.
+Any email or communication not from my official rutgers email address is NOT me. I have not sent mass communication offering assistantships, hourly work, or money of any sort. I would never contact you via WhatsApp, text, or phone. Scammers suck, stay vigilant.
