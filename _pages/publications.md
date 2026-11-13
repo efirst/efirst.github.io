@@ -11,11 +11,11 @@ author_profile: true
 Full-length Publications 
 ======
 Zhanna Kaufman, **Emily First**, Alex Sanchez-Stern, Kyle Thompson, Sorin Lerner, Yuriy Brun\
-ProofCoop: Collaborative Automated Formal Verification\
+[ProofCoop: Collaborative Automated Formal Verification](https://dl.acm.org/doi/10.1145/3744916.3787783)\
 ICSE 2026
 
 Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, **Emily First**\
-[Cobblestone: A Divide-and-Conquer Approach for Automating Formal Verification](https://arxiv.org/abs/2410.19940)\
+[Cobblestone: A Divide-and-Conquer Approach for Automating Formal Verification](https://dl.acm.org/doi/full/10.1145/3744916.3773178)\
 ICSE 2026
 
 Kyle Thompson, Nuno Saavedra, Pedro Carrott, Kevin Fisher, Alex Sanchez-Stern, Yuriy Brun, João F. Ferreira, Sorin Lerner, **Emily First**\
