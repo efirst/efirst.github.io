@@ -49,10 +49,20 @@ OOPSLA 2020
 
 Preprints
 ======
+Álvaro F. Silva, Martim Afonso, Nuno Saavedra, **Emily First**, Alexandra Mendes, João F. Ferreira\
+[SeVerus: Context-Aware, Gamified Benchmarking for Rust Verification](https://arxiv.org/abs/2611.07194v1)\
+arXiv 2026\
+Under Submission
+
 Yousef Alhessi, Sólrún Halla Einarsdóttir, George Granberry, **Emily First**, Moa Johansson, Sorin Lerner, Nicholas Smallbone\
 [Lemmanaid: Neuro-Symbolic Lemma Conjecturing](https://arxiv.org/abs/2504.04942)\
 arXiv 2025\
 Under Submission (also appeared at the ICML 2025 AI4Math Workshop) 
+
+Hang Zhang, Qihao Ye, Litong Liu, Yunbei Zhang, Yugyung Lee, Yue Zhou, Bowen Liu, **Emily First**, Cheng Han, Qiao Zhuang\
+[LeanContext: Disentangling Mathematical Resources from Local Formal Context in Lean Whole-Proof Generation](https://arxiv.org/abs/2611.08277)\
+arXiv 2026\
+Under Submission
 
 Demo-Track Publications
 ======
@@ -67,6 +77,10 @@ ICSE 2023
 
 Workshop Publications 
 ======
+Anastasiya Kravchuk-Kirilyuk, Tyler Holloway, **Emily First**, Yuriy Brun, Elena Glassman\
+[The Human Aspects of Proof Synthesis: Lessons from a Rocq User Study](https://popl27.sigplan.org/details/wave-2027-papers/3/The-Human-Aspects-of-Proof-Synthesis-Lessons-from-a-Rocq-User-Study)\
+WAVE 2027 Workshop on Auto-active VErification @ POPL
+
 Sólrún Einarsdóttir, Yousef Alhessi, **Emily First**, Moa Johansson\
 [On Lemma Conjecturing using Neural, Symbolic and Neuro-symbolic approaches](https://aitp-conference.org/2024/abstract/AITP_2024_paper_32.pdf)\
 In 9th Conference on Artificial Intelligence and Theorem Proving\
