@@ -15,7 +15,7 @@ When I'm not working on research, I'm mostly watching reality TV or rooting for 
 
 Call for Papers: TrustedSoftwAIr 2027
 ======
-**Submit to [TrustedSoftwAIr 2027](https://trustedsoftwair.github.io/), the International Workshop on Building Trusted Software with AI, co-located with ICSE 2027 in Dublin, Ireland (April 26, 2027). Submissions are due November 13, 2026 (AoE).**
+**Submit to [TrustedSoftwAIr 2027](https://trustedsoftwair.github.io/), the International Workshop on Building Trusted Software with AI, co-located with ICSE 2027 in Dublin, Ireland (April 26, 2027). Submissions are due November 17, 2026 (AoE).**
 
 TrustedSoftwAIr brings together researchers across software engineering, programming languages, AI, mathematics, HCI, and verification who are using AI to make building trusted software easier, with the goal of sparking cross-pollination and collaboration between these communities.
 
